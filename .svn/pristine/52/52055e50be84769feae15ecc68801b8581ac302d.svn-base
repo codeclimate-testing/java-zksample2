@@ -1,0 +1,3 @@
+# robots.txt for http://www.zk-web.de/
+User-agent: *
+Disallow:
